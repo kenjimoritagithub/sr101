@@ -25,6 +25,6 @@ Reo Sato, Kenji Morita
 
 - To generate Q-learning versions of Figure 3 and Figure 4A,B,D,E, run the codes in MATLAB in the corresponding "Qlearning_version_of_makeFig#.m" files
 
-- The three "makeFigF..." files include the codes for fitting of the data of Gillan et al. 2016 elife 5:e11305 (https://doi.org/10.7554/eLife.11305) by our dual-system agent model, which we conducted but not included in the manuscript
+- The three "makeFigF..." files include the codes for fitting of the data of Gillan et al. 2016 elife 5:e11305 (https://doi.org/10.7554/eLife.11305; obtained from https://osf.io/usdgt/) by our dual-system agent model, which we conducted but not included in the manuscript
 
 - The other ".m" files are called in the files for making figures
